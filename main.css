@@ -14,7 +14,8 @@ p{
 }
 body{
     background-image: url("images/kk.png");
-    background-size: 1350px;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-attachment:fixed;
     /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-attachment;*/
 }
