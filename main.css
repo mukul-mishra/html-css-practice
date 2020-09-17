@@ -1,0 +1,20 @@
+p{
+    /* this css file can be used for all the pages*/
+    /*color:#2abbff;*/
+    color: rgb(236,34,255);
+    font-family: cursive;
+    font-weight: bold;
+    /*font-size: 28px;*/
+    /*css box model*/
+    font-size: 2em;
+    border: 4px green;
+    padding: 20px;
+    margin: 100px;
+    background-color:white;
+}
+body{
+    background-image: url("images/kk.png");
+    background-size: 1350px;
+    background-repeat: no-repeat;
+    /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-attachment;*/
+}
