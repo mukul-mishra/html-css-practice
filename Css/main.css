@@ -40,16 +40,32 @@ h1{
     
     color:black;
 }
-body{
-    /*background-image: url("images/marau.jpg");*/
+.marauder{
+    border: 4px solid green;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    height: 400px;
+    float: left;
+    width: 49%;
+    background-image: url(../images/marau.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+}
+.dobby{
+    border: 4px solid green;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    height: 400px;
+    float: right;
+    width: 49%;
+    background-image: url(../images/dobby.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+}
+/*body{
+    background-image: url("../images/marau.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
-    /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-attachment;*/
-}
-div{
-    border: 6px green;
-}
-span{
-    border: 6px green;
-}
+    /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-attachment;
+}*/
