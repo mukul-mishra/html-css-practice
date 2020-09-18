@@ -1,7 +1,9 @@
 p{
     /* this css file can be used for all the pages*/
     /*color:#2abbff;*/
-    color: rgb(236,34,255);
+    content: center;
+    /*color: rgb(236,34,255);*/
+    color: black;
     font-family: cursive;
     font-weight: bold;
     /*font-size: 28px;*/
@@ -10,12 +12,44 @@ p{
     border: 4px green;
     padding: 20px;
     margin: 100px;
-    background-color:white;
+    /*background-color:white;*/
+}
+li{
+    /* this css file can be used for all the pages*/
+    /*color:#2abbff;*/
+    
+    background-color:burlywood;
+    width: 4em;
+    content: center;
+    /*color: rgb(236,34,255);*/
+    color:black;
+    font-family: cursive;
+    font-weight: bold;
+    /*font-size: 28px;*/
+    /*css box model*/
+    font-size: 2em;
+    border: 4px green;
+    padding: 20px;
+    margin: 100px;
+    /*background-color:white;*/
+}
+h1{
+    /* this css file can be used for all the pages*/
+    /*color:#2abbff;*/
+    
+    
+    color:black;
 }
 body{
-    background-image: url("images/kk.png");
+    /*background-image: url("images/marau.jpg");*/
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
     /*background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-attachment;*/
+}
+div{
+    border: 6px green;
+}
+span{
+    border: 6px green;
 }

@@ -1,0 +1,11 @@
+div{
+    border: 1px solid green;
+   /* display: inline;*/
+    width: 200;
+    height: 200;
+}
+span{
+    border: 1px solid green;
+    display: block;
+}
+/* width and height can only be used with block level element not with inline elements*/
