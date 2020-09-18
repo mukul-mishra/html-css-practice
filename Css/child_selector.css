@@ -1,0 +1,10 @@
+div p{
+    color:red;
+}
+div.green_text p{
+    color: green;
+}
+/*
+child selectors div p{} indicates a div parent having a child p
+div.green_text p{} indicates a p child having div parent with class green_text.
+*/
