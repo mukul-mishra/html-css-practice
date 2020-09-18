@@ -1,0 +1,16 @@
+p:hover{
+    color: crimson;
+}
+div.gr p:nth-child(2n){
+    color: darkgreen;
+}
+a:visited{
+    color: greenyellow;
+}
+p::first-letter{
+    color: greenyellow;
+}
+p::first-line{
+    color: hotpink;
+}
+/*psuedo classes and psuedo elements :: for elements : for classes*/
