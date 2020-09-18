@@ -1,0 +1,26 @@
+/*
+classes are accessed using .ClassName(no space should be their in class name)
+id's are accessed using #idName
+even though css works but their should be unique id for each element
+classes can have multiple elements.
+*/
+
+
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.red{
+    color: red;
+}
+#gr{
+    color: green;
+}
+#bl{
+    color: blue;
+}
+#re{
+    color: red;
+}
